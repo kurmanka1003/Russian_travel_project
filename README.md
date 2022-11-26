@@ -8,4 +8,4 @@
 
 Данный проект реализован с помощью Visual Studio Code 1.73.1, дополнительных расширений не имеет.
 
-* [Ссылка на GitHub Pages]()
+* [Ссылка на GitHub Pages](https://kurmanka1003.github.io/russian-travel/)
