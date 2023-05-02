@@ -24,7 +24,7 @@ mkdir название_директории
 2. Клонируйте репозиторий в директории:
 
 ```
-git clone https://github.com/kurmanka1003/how-to-learn.git
+git clone https://github.com/kurmanka1003/russian-travel.git
 ```
 3. Откройте файл для запуска проекта
 
